@@ -1,3 +1,3 @@
 # Übung für Merge-Konflikt
 
-Name: P & J
+Name: P & J----
