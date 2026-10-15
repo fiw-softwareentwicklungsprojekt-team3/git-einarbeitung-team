@@ -21,4 +21,4 @@ Zur Einarbeitung in Git sollen folgende Aufgaben von jedem Teammitglied ausgefü
 
 **Übung: Merge-Konflikt**
 
-Tragt alle euren Namen auf dieser Zeile ein:
+Tragt alle euren Namen auf dieser Zeile ein: Rawan 
