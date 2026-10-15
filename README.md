@@ -20,4 +20,4 @@ Zur Einarbeitung in Git sollen folgende Aufgaben von jedem Teammitglied ausgefü
   
 
 **Übung: Merge-Konflikt**
- konflikt-rawan
+
