@@ -1,3 +1,3 @@
 # Übung für Merge-Konflikt
 
-Name: Jaqueline
+Name: Patricia Zabel
